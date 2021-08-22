@@ -1,0 +1,6 @@
+* To be able to edit a workout *
+
+ 1- Add an 'click' event listener to workout list
+ 2- Find the workout from the workout array
+ 3- Open the hidden form with the content of the list element
+ 4- When submitted do not create a new element but just change the existing one
